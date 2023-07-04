@@ -6,7 +6,7 @@ import os
 import PIL
 
 # path=os.gecwd()
-path='C:/Users/MaY8/Desktop/GITHUB/NANSHAGH/'
+path='C:/Users/MaY8/Desktop/GITHUB/ZHENGZHOUGH/'
 # path='C:/Users/mayij/Desktop/DOC/GITHUB/NANSHAGH/'
 pd.options.display.max_columns=100
 
